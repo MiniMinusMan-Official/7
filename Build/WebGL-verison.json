@@ -1,0 +1,16 @@
+{
+"companyName": "seven_corp",
+"productName": "7",
+"productVersion": "1.4.3",
+"dataUrl": "WebGL-verison.data.unityweb",
+"wasmCodeUrl": "WebGL-verison.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL-verison.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
